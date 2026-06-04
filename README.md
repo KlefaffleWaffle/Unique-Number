@@ -23,7 +23,7 @@ In programming, there are often different ways to tackle the same problem.
 One could use a random number generator, but that requires logging, saving, and checking every number that's ever been generated. That means that the more you run the program, the slower it gets.
 One could use a Universally Unique Identifier, or UUID, but that is grossly overkill when the primary function is about generating key identifiers. If for some reason you could not copy and paste, it would be grossly inconveint to copy by hand. On top of that, if one were to modify the code, they would need to understand how the UUID library works. 
 
-My solution is simple. Because numbers are ordered, if you grab numbers in sequence, you will never get the same number twice, (unless you run the program over 3 billion times). We can use this exploit this mathmatical principle to always generate a unique number.
+My solution is simple. Because numbers are ordered, if you grab numbers in sequence, you will never get the same number twice, (unless you run the program over 3 billion times). We can exploit this mathematical principle to always generate a unique number.
 
 # How it works (Practice)
 The program searches for a prenamed, pre existing file. If the file does not exist, it creates the file and adds "0" to it. The program interprets and saves the current number, clears the text file, and adds the original number plus one, in it's place. Finally it displays the number on screen.
