@@ -1,7 +1,7 @@
 # Preface
 In our modern world, there's an idea that the more complex the program, the more impressive it is. It seems every new technology needs to have AI or intensive algorithms. Yet on the functional side of things, you don't want complexity. You want minimalism. Complexity means longer compute times, more power usage, longer and harder development cycles as developers have to learn and understand not only their own team's code and how it functions, but all related libraries and dependencies.
 
-Here's a real world example. On [StableDiffusionWeb.com](https://stablediffusionweb.com/photo-effects/ai-polaroid-maker) you can use AI to turn your photo into a polaroid. Now all this website appears to be doing is imitating the square aspect ratio of a polaroid. This can be done with the crop tool on most basic photo editing softwares. I can even do this on the photo editing software on my galaxy phone. One might even ask, is this genuinely AI? Now I've taken the liberty to highlight that it is. See below.
+Here's a real world example. On [StableDiffusionWeb.com](https://stablediffusionweb.com/photo-effects/ai-polaroid-maker) you can use AI to turn your photo into a polaroid. Now all this website appears to be doing is imitating the square aspect ratio of a polaroid and adding a white background. This can be done with the crop tool on most basic photo editing softwares. I can even do this on the photo editing software on my galaxy phone. One might even ask, is this genuinely AI? Now I've taken the liberty to highlight that it is. See below.
 
 <img width="1900" height="870" alt="Screenshot 2026-06-04 120240" src="https://github.com/user-attachments/assets/21dc20ec-7ebb-49a5-8b08-d2171c9f32ff" />
 
